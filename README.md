@@ -1,0 +1,1 @@
+This is a responsive landing page website that is designed to look great on desktops, tablets, and mobile devices. The website is built using HTML and CSS, and is optimized for fast loading times and high performance.
